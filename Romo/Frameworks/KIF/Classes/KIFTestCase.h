@@ -7,8 +7,8 @@
 //  See the LICENSE file distributed with this work for the terms under
 //  which Square, Inc. licenses this file to you.
 
-#import <SenTestingKit/SenTestingKit.h>
-#import "SenTestCase-KIFAdditions.h"
+
+#import "XCTestCase-KIFAdditions.h"
 
 /*!
  * @abstract @c KIFTestCase subclasses @c SenTestCase to add setup and teardown steps that can be used to execute KIF test steps.
